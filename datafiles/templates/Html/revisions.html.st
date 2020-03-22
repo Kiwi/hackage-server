@@ -36,6 +36,11 @@ stored separately.
         </ul>
       </td>
     </tr>
+    </tr>
+      <td valign="top"></td>
+      <td valign="top">$revision.iso8601$</td>
+      <td valign="top" colspan="2">$revision.sha256$</th>
+    </tr>
   }; separator=""$
 </table>
 
